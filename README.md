@@ -22,4 +22,4 @@ A cookie recipe crafted by the Epicodus team. Formatted helpfully on a bare HTML
 ## License
 Provided under MIT License
 
-Copyright (c) 2017 **_Adrian Agnic and Charles Emrich**_
+Copyright (c) 2017 **_Adrian Agnic and Charles Emrich_**
